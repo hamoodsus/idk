@@ -51,3 +51,4 @@ You can help me continuing bot development by [invite here](https://discord.com/
 </div><br><br>
 <div>
   <img src="https://cdn.discordapp.com/attachments/1146791086682030159/1154003612511502336/image.png" height="auto" width="470" align="right" style="border-radius:50%"/>
+https://drive.google.com/drive/folders/1qbhflPb8wIwHCJR7G4twCf0CPg0sLIhX?usp=drive_link
