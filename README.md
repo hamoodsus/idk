@@ -40,15 +40,3 @@
 <div>
   <img src="https://cdn.discordapp.com/attachments/1096028188976619523/1120017495517036654/104169263_p1.png" height="auto" width="230" align="right" style="border-radius:50%"/>
 
-### 🤖 GlitchBucket
-**GlitchBucket** is a Discord Bot mainly focus on automated & unique features, such as: 
-- Outage notification,
-- [BlocksMC](https://blocksmc.com) Statistic Tracker,
-- High-quality Anime Illustration,
-- and much more!
-
-You can help me continuing bot development by [invite here](https://discord.com/api/oauth2/authorize?client_id=1103932552701550622&permissions=52664888455159&scope=bot%20applications.commands) ❤
-</div><br><br>
-<div>
-  <img src="https://cdn.discordapp.com/attachments/1146791086682030159/1154003612511502336/image.png" height="auto" width="470" align="right" style="border-radius:50%"/>
-https://drive.google.com/drive/folders/1qbhflPb8wIwHCJR7G4twCf0CPg0sLIhX?usp=drive_link
