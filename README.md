@@ -15,9 +15,8 @@
 - <sub><img src="https://cdn.discordapp.com/attachments/1146791086682030159/1153953344403025980/vn.png" alt="Vietnamese Flag" width="23" height="17"/></sub> Vietnamese Student
 - <sub><img src="https://cdn.discordapp.com/attachments/1146791086682030159/1153958933564755998/discordpy.png" alt="discordpy icon" width="17"/></sub> Discord.py lover with daily 69 hours of coding with Discord Bot
 - 🔒 Mainly working on private work/repository
-- 🥥 [Organization working website](https://langdua.net)
-- <sub><img src="https://cdn.discordapp.com/attachments/96764591665803[6746/1071662340505882634/minecraft.png" alt="discordpy icon" width="19"/></sub> Minecraft server engnieer, currently holding [SL](https://discord.gg/shinelordt) and working for some others organizations
-- <img style="width:17px; height:auto;" src="https://cdn.discordapp.com/attachments/967645916658036746/1071615538339516478/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [My Discord Server](https://langdua.net/discord)!
+
+- <img style="width:17px; height:auto;" src="https://cdn.discordapp.com/attachments/967645916658036746/1071615538339516478/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> [play with me <3](https://discord.gg/8zSRRnNs)!
 
 <br>
 
