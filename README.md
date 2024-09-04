@@ -39,4 +39,5 @@
 ## 🏗️ **Working projects/repositories**
 <div>
   <img src="https://cdn.discordapp.com/attachments/1096028188976619523/1120017495517036654/104169263_p1.png" height="auto" width="230" align="right" style="border-radius:50%"/>
+  none =( 
 
